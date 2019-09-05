@@ -1,0 +1,45 @@
+.modal-body {
+    width:500px;
+    height:400px ;
+    background-color: black;
+    color: white;
+    margin:0 auto;
+    
+}
+.modal-header{
+    background-color: black;
+}
+.form-control
+{
+    height: 30px;
+    width: 350px;
+    
+}
+.modal-footer
+{
+    background-color: black;
+}
+.modal-title
+{
+    text-emphasis: none;
+    text-align: left;
+    text-align-last: auto;
+    text-decoration: blue;
+
+}
+.terms
+{
+    color: white;
+}
+.modal-dialog modal-xl
+{
+ color:white;
+ background-color: black;
+ width:	1140px;
+}
+.modal-body modal-xl
+{
+    color:white;
+    background-color: black;
+    width:	1140px;
+}

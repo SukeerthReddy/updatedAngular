@@ -1,0 +1,38 @@
+.modal-body {
+    width:500px;
+    height:200px ;
+    background-color: black;
+    color: white;
+    margin:0 auto;
+    
+}
+.modal-header{
+    background-color: black;
+}
+.form-control
+{
+    height: 30px;
+    width: 350px;
+    
+}
+.modal-footer
+{
+    background-color: black;
+}
+.forgot-password{
+color: white;
+text-align: left;
+}
+.form-check-label{
+color:white;
+text-align: left;
+
+}
+.modal-title
+{
+    text-emphasis: none;
+    text-align: left;
+    text-align-last: auto;
+    text-decoration: blue;
+
+}
